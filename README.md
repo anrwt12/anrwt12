@@ -90,10 +90,12 @@ Featured repositories:
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile)*
-- 📧 Email: *(Add your email)*
-- 🌐 GitHub: https://github.com/anrwt12
+## 📫 Connect with Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjali%20Rawat-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anjali-rawat-a34b7a3a2)
+
+[![Email](https://img.shields.io/badge/Email-rawatanjali0513%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rawatanjali0513@gmail.com)
+
+[![GitHub](https://github.com/anrwt12)
 
 ⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.**
