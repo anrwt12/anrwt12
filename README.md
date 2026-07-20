@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjali Rawat
 
-<!--
-**anrwt12/anrwt12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | 🤖 AI Enthusiast | 🐍 Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about transforming raw data into meaningful insights and building real-world projects that solve business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm learning and building projects in **Data Analytics**, **Artificial Intelligence**, and **Software Development**, while sharing my learning journey through open-source repositories.
+
+---
+
+## 🙋🏻‍♀️ Introducing Myself
+
+Hello! I'm **Anjali Rawat**, a B.Sc. Computer Science student and an aspiring **Data Analyst & AI Enthusiast**.
+
+I enjoy exploring data, solving analytical problems, and learning how AI can be used to make smarter decisions. My goal is to continuously improve my technical skills through hands-on projects and contribute to the open-source community.
+
+### 🚀 What I Do
+
+- 📊 Analyze and explore datasets using **SQL** and **Python**
+- 📈 Build interactive dashboards using **Excel** and **Power BI**
+- 🤖 Learn and apply **Artificial Intelligence** and **Machine Learning**
+- 🐍 Create beginner-friendly Python tutorials and projects
+- 💡 Work on real-world Data Analytics case studies
+- 📚 Continuously learn new technologies and best practices
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Languages
+- Python
+- SQL
+
+### Data Analytics
+- Excel
+- Power BI
+- Tableau (Learning)
+
+### Databases
+- MySQL
+- PostgreSQL
+
+### Libraries
+- Pandas
+- NumPy
+- Matplotlib
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my projects.
+
+➡️ **Portfolio Guide** *(Coming Soon)*
+
+Featured repositories:
+
+- 🐍 Python Challenge Series
+- 📊 SQL Portfolio Projects
+- 📈 Power BI Dashboards
+- 📉 Excel Dashboard Projects
+- 🛒 E-commerce Customer Analytics
+- 🚦 Road Accident Analysis
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Analytics
+- Artificial Intelligence
+- Machine Learning
+- Statistics
+- Data Visualization
+
+---
+
+## 🎯 Goals
+
+- Build impactful Data Analytics projects
+- Contribute to Open Source
+- Strengthen AI & Machine Learning skills
+- Continuously learn and grow as a Data Professional
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: *(Add your LinkedIn profile)*
+- 📧 Email: *(Add your email)*
+- 🌐 GitHub: https://github.com/anrwt12
+
+---
+
+⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.**
