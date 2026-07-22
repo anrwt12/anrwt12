@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anjali Rawat
+#  Hi, I'm Anjali Rawat
 
 ### 📊 Aspiring Data Analyst | 🤖 AI Enthusiast | 🐍 Python Developer
 
